@@ -5,8 +5,8 @@ body {
 }
 
 .title {
-  margin: 0 auto;
-
-  color: #ffffff;
+  padding-top: 100px;
+  
+  color: #000000;
   text-align: center;
 }
